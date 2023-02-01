@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Patria Grande",
+		"leaderName": "Juan",
+		"adjective": ["Visigodo"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": ".",
+		"uniques": ["hola"],
+		"cities": ["Capitál"]
+	},
+]
